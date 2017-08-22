@@ -1,0 +1,12 @@
+.nav {
+  list-style-type: none;
+  margin-top: 3em;
+}
+
+.nav > li {
+  float: right;
+}
+
+#one > p {
+  line-height: 1.6em;
+}
